@@ -1,28 +1,36 @@
-EcoShield: Crop and Rainfall Data Analysis
+# EcoShield:
+## Crop and Rainfall Data Analysis
 Project Overview
 EcoShield is a data analysis project aimed at studying the relationship between rainfall and the production of three major crops: wheat, maize, and rice. The project uses Python and popular data science libraries like pandas, matplotlib, and numpy to analyze the data and generate insightful visualizations.
 
-Table of Contents
-Project Overview
-Technologies Used
-Project Structure
-Installation
-Usage
-Data Sources
-Results and Insights
-Contributing
-License
-Technologies Used
+## Table of Contents
+1. Project Overview
+
+2. Technologies Used
+
+3. Project Structure
+
+4. Installation
+
+5. Usage
+
+6. Data Sources
+
+7. Results and Insights
+
+8. Contributing
+
+## Technologies Used
 Python 3.x: The programming language used for analysis.
+
 Pandas: For data manipulation and analysis.
+
 NumPy: For numerical computations.
+
 Matplotlib: For data visualization.
-Project Structure
 
 
-
-Data Sources
-The dataset used contains information about:
+## The dataset used contains information about:
 
 Crops: Wheat, maize, rice production in different regions.
 Rainfall: Yearly/seasonal rainfall data.
